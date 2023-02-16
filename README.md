@@ -5,5 +5,4 @@ This project was started as a personal project for motorcycle riding. Project wa
 
 Usage: when the app is started, an automatic animation will show current location. At the same time information like: time, speed and current playing song are loaded and displayed. Functions are now ready to be used. By clicking and dragging on the visible part of the map user can move and zoom the mapview exploring the area. By clicking a button labeled "re-center" in the lower-right corner, the map will re adjust the view so that the current location is at the center of the screen. Turning the device horizontally causes the app to reload but all the functions remain the same. 
 
-
-
+NOTE: this is an Android project so it must be run on an Android phone or Android emulator. 
